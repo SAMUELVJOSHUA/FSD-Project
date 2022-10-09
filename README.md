@@ -1,1 +1,1 @@
-# FSD-Project
+# FSD-Project - Manager platform
